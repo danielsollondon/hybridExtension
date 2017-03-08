@@ -2,11 +2,11 @@
   {
     "version": 1.0,
     "handlerManifest": {
-      "disableCommand": "./helloWriteOut disable",
-      "enableCommand": "./helloWriteOut enable",
-      "installCommand": "./helloWriteOut install",
-      "uninstallCommand": "./helloWriteOut uninstall",
-      "updateCommand": "./helloWriteOut update", 
+      "disableCommand": "./bin/hybridExtension disable",
+      "enableCommand": "./bin/hybridExtension enable",
+      "installCommand": "./bin/hybridExtension install",
+      "uninstallCommand": "./bin/hybridExtension uninstall",
+      "updateCommand": "./bin/hybridExtension update", 
       "rebootAfterInstall": false,
       "reportHeartbeat": false
     }
