@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<ExtensionImage xmlns="http://schemas.microsoft.com/windowsazure">
+  <ProviderNameSpace>AzureTesting</ProviderNameSpace>
+  <Type>HybridExtension</Type>
+  <Version>1.0.0.0</Version>
+  <Label>Microsoft Azure Hybrid Test Extension for Linux Virtual Machines</Label>
+  <HostingResources>VmRole</HostingResources>
+  <MediaLink></MediaLink>
+  <Description>Please Do Not Use this.</Description>
+  <IsInternalExtension>true</IsInternalExtension>
+  <Eula>http://yourcompanyurl.com</Eula>
+  <PrivacyUri>yourcompanyurl.com</PrivacyUri>
+  <HomepageUri>https://github.com/Azure/azure-linux-extensions</HomepageUri>
+  <IsJsonExtension>true</IsJsonExtension>
+  <SupportedOS>Linux</SupportedOS>
+  <CompanyName>Microsoft</CompanyName>
+  <!--%REGIONS%-->
+</ExtensionImage>
