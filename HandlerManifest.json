@@ -1,0 +1,14 @@
+[
+  {
+    "version": 1.0,
+    "handlerManifest": {
+      "disableCommand": "./helloWriteOut disable",
+      "enableCommand": "./helloWriteOut enable",
+      "installCommand": "./helloWriteOut install",
+      "uninstallCommand": "./helloWriteOut uninstall",
+      "updateCommand": "./helloWriteOut update", 
+      "rebootAfterInstall": false,
+      "reportHeartbeat": false
+    }
+  }
+]
