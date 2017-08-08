@@ -6,7 +6,7 @@
   <Label>Microsoft Azure Hybrid Test Extension for Linux Virtual Machines</Label>
   <HostingResources>VmRole</HostingResources>
   <MediaLink></MediaLink>
-  <Description>Please Do Not Use this!</Description>
+  <Description>Please Do Not Use this!!</Description>
   <IsInternalExtension>true</IsInternalExtension>
   <Eula>http://yourcompanyurl.com</Eula>
   <PrivacyUri>yourcompanyurl.com</PrivacyUri>
